@@ -238,7 +238,7 @@ creating_session	matching_pennies/__init__.py	/^def creating_session(subsession:
 crt_bat	survey/__init__.py	/^    crt_bat = models.IntegerField($/;"	v	class:Player
 crt_lake	survey/__init__.py	/^    crt_lake = models.IntegerField($/;"	v	class:Player
 crt_widget	survey/__init__.py	/^    crt_widget = models.IntegerField($/;"	v	class:Player
-display_name	settings.py	/^        display_name="Dictator (demo)",$/;"	v
+display_name	settings.py	/^        display_name="Dictator Game (demo)",$/;"	v
 display_name	settings.py	/^        display_name="Guess 2\/3 of the Average (demo)",$/;"	v
 display_name	settings.py	/^        display_name='Econ 101 class',$/;"	v
 form_fields	bargaining/__init__.py	/^    form_fields = ['request']$/;"	v	class:Request

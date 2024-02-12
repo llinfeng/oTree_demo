@@ -22,7 +22,7 @@ SESSION_CONFIGS = [
     # ),
     dict(
         name='dictator',
-        display_name="Dictator (demo)",
+        display_name="Dictator Game (demo)",
         app_sequence=['dictator', 'payment_info'],
         num_demo_participants=2,
     ),

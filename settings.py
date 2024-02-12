@@ -9,6 +9,24 @@ SESSION_CONFIGS = [
         num_demo_participants=3,
     ),
     dict(
+        name='bargaining',
+        display_name="Bargaining (demo)",
+        app_sequence=['bargaining', 'payment_info'],
+        num_demo_participants=2,
+    ),
+    dict(
+        name='bertrand',
+        display_name="Bertrand (demo)",
+        app_sequence=['bertrand', 'payment_info'],
+        num_demo_participants=2,
+    ),
+    dict(
+        name='dictator',
+        display_name="Dictator (demo)",
+        app_sequence=['dictator', 'payment_info'],
+        num_demo_participants=2,
+    ),
+    dict(
         name='survey', app_sequence=['survey', 'payment_info'], num_demo_participants=1
     ),
 ]

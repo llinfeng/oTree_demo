@@ -19,3 +19,9 @@ Run the following:
 ```
 heroku run "otree resetdb" --app otree-demo-2024-02
 ```
+
+
+### Python Runtime is not found
+There are two types of "Stack" available on Heroku (as of 2024-02). Check this
+link for availability of the supported Python runtimes -
+<https://devcenter.heroku.com/articles/python-support#supported-runtimes>

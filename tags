@@ -1,0 +1,405 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADJUSTMENT_ABS	traveler_dilemma/__init__.py	/^    ADJUSTMENT_ABS = cu(2)$/;"	v	class:C
+ADMIN_PASSWORD	settings.py	/^ADMIN_PASSWORD = environ.get('OTREE_ADMIN_PASSWORD')$/;"	v
+ADMIN_USERNAME	settings.py	/^ADMIN_USERNAME = 'admin'$/;"	v
+AMOUNT_SHARED	bargaining/__init__.py	/^    AMOUNT_SHARED = cu(100)$/;"	v	class:C
+BID_MAX	common_value_auction/__init__.py	/^    BID_MAX = cu(10)$/;"	v	class:C
+BID_MIN	common_value_auction/__init__.py	/^    BID_MIN = cu(0)$/;"	v	class:C
+BID_NOISE	common_value_auction/__init__.py	/^    BID_NOISE = cu(1)$/;"	v	class:C
+Bid	common_value_auction/__init__.py	/^class Bid(Page):$/;"	c
+C	bargaining/__init__.py	/^class C(BaseConstants):$/;"	c
+C	bertrand/__init__.py	/^class C(BaseConstants):$/;"	c
+C	common_value_auction/__init__.py	/^class C(BaseConstants):$/;"	c
+C	cournot/__init__.py	/^class C(BaseConstants):$/;"	c
+C	dictator/__init__.py	/^class C(BaseConstants):$/;"	c
+C	guess_two_thirds/__init__.py	/^class C(BaseConstants):$/;"	c
+C	matching_pennies/__init__.py	/^class C(BaseConstants):$/;"	c
+C	payment_info/__init__.py	/^class C(BaseConstants):$/;"	c
+C	prisoner/__init__.py	/^class C(BaseConstants):$/;"	c
+C	public_goods_simple/__init__.py	/^class C(BaseConstants):$/;"	c
+C	survey/__init__.py	/^class C(BaseConstants):$/;"	c
+C	traveler_dilemma/__init__.py	/^class C(BaseConstants):$/;"	c
+C	trust/__init__.py	/^class C(BaseConstants):$/;"	c
+C	trust_simple/__init__.py	/^class C(BaseConstants):$/;"	c
+C	volunteer_dilemma/__init__.py	/^class C(BaseConstants):$/;"	c
+Choice	matching_pennies/__init__.py	/^class Choice(Page):$/;"	c
+Claim	traveler_dilemma/__init__.py	/^class Claim(Page):$/;"	c
+CognitiveReflectionTest	survey/__init__.py	/^class CognitiveReflectionTest(Page):$/;"	c
+Contribute	public_goods_simple/__init__.py	/^class Contribute(Page):$/;"	c
+Decide	bertrand/__init__.py	/^class Decide(Page):$/;"	c
+Decide	cournot/__init__.py	/^class Decide(Page):$/;"	c
+Decision	prisoner/__init__.py	/^class Decision(Page):$/;"	c
+Decision	volunteer_dilemma/__init__.py	/^class Decision(Page):$/;"	c
+Demographics	survey/__init__.py	/^class Demographics(Page):$/;"	c
+ENDOWMENT	dictator/__init__.py	/^    ENDOWMENT = cu(100)$/;"	v	class:C
+ENDOWMENT	public_goods_simple/__init__.py	/^    ENDOWMENT = cu(100)$/;"	v	class:C
+ENDOWMENT	trust/__init__.py	/^    ENDOWMENT = cu(100)$/;"	v	class:C
+ENDOWMENT	trust_simple/__init__.py	/^    ENDOWMENT = cu(10)$/;"	v	class:C
+GENERAL_BENEFIT	volunteer_dilemma/__init__.py	/^    GENERAL_BENEFIT = cu(100)$/;"	v	class:C
+GUESS_MAX	guess_two_thirds/__init__.py	/^    GUESS_MAX = 100$/;"	v	class:C
+Group	bargaining/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	bertrand/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	common_value_auction/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	cournot/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	dictator/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	guess_two_thirds/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	matching_pennies/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	payment_info/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	prisoner/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	public_goods_simple/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	survey/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	traveler_dilemma/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	trust/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	trust_simple/__init__.py	/^class Group(BaseGroup):$/;"	c
+Group	volunteer_dilemma/__init__.py	/^class Group(BaseGroup):$/;"	c
+Guess	guess_two_thirds/__init__.py	/^class Guess(Page):$/;"	c
+INSTALLED_APPS	settings.py	/^INSTALLED_APPS = ['otree']$/;"	v
+Introduction	bargaining/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	bertrand/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	common_value_auction/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	cournot/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	dictator/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	guess_two_thirds/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	prisoner/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	traveler_dilemma/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	trust/__init__.py	/^class Introduction(Page):$/;"	c
+Introduction	volunteer_dilemma/__init__.py	/^class Introduction(Page):$/;"	c
+JACKPOT	guess_two_thirds/__init__.py	/^    JACKPOT = cu(100)$/;"	v	class:C
+LANGUAGE_CODE	settings.py	/^LANGUAGE_CODE = 'en'$/;"	v
+MATCHER_ROLE	matching_pennies/__init__.py	/^    MATCHER_ROLE = 'Matcher'$/;"	v	class:C
+MAXIMUM_PRICE	bertrand/__init__.py	/^    MAXIMUM_PRICE = cu(100)$/;"	v	class:C
+MAX_AMOUNT	traveler_dilemma/__init__.py	/^    MAX_AMOUNT = cu(100)$/;"	v	class:C
+MAX_UNITS_PER_PLAYER	cournot/__init__.py	/^    MAX_UNITS_PER_PLAYER = int(TOTAL_CAPACITY \/ PLAYERS_PER_GROUP)$/;"	v	class:C
+MIN_AMOUNT	traveler_dilemma/__init__.py	/^    MIN_AMOUNT = cu(2)$/;"	v	class:C
+MISMATCHER_ROLE	matching_pennies/__init__.py	/^    MISMATCHER_ROLE = 'Mismatcher'$/;"	v	class:C
+MULTIPLIER	public_goods_simple/__init__.py	/^    MULTIPLIER = 1.8$/;"	v	class:C
+MULTIPLIER	trust/__init__.py	/^    MULTIPLIER = 3$/;"	v	class:C
+MULTIPLIER	trust_simple/__init__.py	/^    MULTIPLIER = 3$/;"	v	class:C
+NAME_IN_URL	bargaining/__init__.py	/^    NAME_IN_URL = 'bargaining'$/;"	v	class:C
+NAME_IN_URL	bertrand/__init__.py	/^    NAME_IN_URL = 'bertrand'$/;"	v	class:C
+NAME_IN_URL	common_value_auction/__init__.py	/^    NAME_IN_URL = 'common_value_auction'$/;"	v	class:C
+NAME_IN_URL	cournot/__init__.py	/^    NAME_IN_URL = 'cournot'$/;"	v	class:C
+NAME_IN_URL	dictator/__init__.py	/^    NAME_IN_URL = 'dictator'$/;"	v	class:C
+NAME_IN_URL	guess_two_thirds/__init__.py	/^    NAME_IN_URL = 'guess_two_thirds'$/;"	v	class:C
+NAME_IN_URL	matching_pennies/__init__.py	/^    NAME_IN_URL = 'matching_pennies'$/;"	v	class:C
+NAME_IN_URL	payment_info/__init__.py	/^    NAME_IN_URL = 'payment_info'$/;"	v	class:C
+NAME_IN_URL	prisoner/__init__.py	/^    NAME_IN_URL = 'prisoner'$/;"	v	class:C
+NAME_IN_URL	public_goods_simple/__init__.py	/^    NAME_IN_URL = 'public_goods_simple'$/;"	v	class:C
+NAME_IN_URL	survey/__init__.py	/^    NAME_IN_URL = 'survey'$/;"	v	class:C
+NAME_IN_URL	traveler_dilemma/__init__.py	/^    NAME_IN_URL = 'traveler_dilemma'$/;"	v	class:C
+NAME_IN_URL	trust/__init__.py	/^    NAME_IN_URL = 'trust'$/;"	v	class:C
+NAME_IN_URL	trust_simple/__init__.py	/^    NAME_IN_URL = 'trust_simple'$/;"	v	class:C
+NAME_IN_URL	volunteer_dilemma/__init__.py	/^    NAME_IN_URL = 'volunteer_dilemma'$/;"	v	class:C
+NUM_OTHER_PLAYERS	volunteer_dilemma/__init__.py	/^    NUM_OTHER_PLAYERS = PLAYERS_PER_GROUP - 1$/;"	v	class:C
+NUM_ROUNDS	bargaining/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	bertrand/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	common_value_auction/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	cournot/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	dictator/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	guess_two_thirds/__init__.py	/^    NUM_ROUNDS = 3$/;"	v	class:C
+NUM_ROUNDS	matching_pennies/__init__.py	/^    NUM_ROUNDS = 4$/;"	v	class:C
+NUM_ROUNDS	payment_info/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	prisoner/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	public_goods_simple/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	survey/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	traveler_dilemma/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	trust/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	trust_simple/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+NUM_ROUNDS	volunteer_dilemma/__init__.py	/^    NUM_ROUNDS = 1$/;"	v	class:C
+Offer	dictator/__init__.py	/^class Offer(Page):$/;"	c
+PARTICIPANT_FIELDS	settings.py	/^PARTICIPANT_FIELDS = []$/;"	v
+PAYOFF_A	prisoner/__init__.py	/^    PAYOFF_A = cu(300)$/;"	v	class:C
+PAYOFF_B	prisoner/__init__.py	/^    PAYOFF_B = cu(200)$/;"	v	class:C
+PAYOFF_C	prisoner/__init__.py	/^    PAYOFF_C = cu(100)$/;"	v	class:C
+PAYOFF_D	prisoner/__init__.py	/^    PAYOFF_D = cu(0)$/;"	v	class:C
+PLAYERS_PER_GROUP	bargaining/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	bertrand/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	common_value_auction/__init__.py	/^    PLAYERS_PER_GROUP = None$/;"	v	class:C
+PLAYERS_PER_GROUP	cournot/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	dictator/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	guess_two_thirds/__init__.py	/^    PLAYERS_PER_GROUP = 3$/;"	v	class:C
+PLAYERS_PER_GROUP	matching_pennies/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	payment_info/__init__.py	/^    PLAYERS_PER_GROUP = None$/;"	v	class:C
+PLAYERS_PER_GROUP	prisoner/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	public_goods_simple/__init__.py	/^    PLAYERS_PER_GROUP = 3$/;"	v	class:C
+PLAYERS_PER_GROUP	survey/__init__.py	/^    PLAYERS_PER_GROUP = None$/;"	v	class:C
+PLAYERS_PER_GROUP	traveler_dilemma/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	trust/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	trust_simple/__init__.py	/^    PLAYERS_PER_GROUP = 2$/;"	v	class:C
+PLAYERS_PER_GROUP	volunteer_dilemma/__init__.py	/^    PLAYERS_PER_GROUP = 3$/;"	v	class:C
+PaymentInfo	payment_info/__init__.py	/^class PaymentInfo(Page):$/;"	c
+Player	bargaining/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	bertrand/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	common_value_auction/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	cournot/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	dictator/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	guess_two_thirds/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	matching_pennies/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	payment_info/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	prisoner/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	public_goods_simple/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	survey/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	traveler_dilemma/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	trust/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	trust_simple/__init__.py	/^class Player(BasePlayer):$/;"	c
+Player	volunteer_dilemma/__init__.py	/^class Player(BasePlayer):$/;"	c
+REAL_WORLD_CURRENCY_CODE	settings.py	/^REAL_WORLD_CURRENCY_CODE = 'USD'$/;"	v
+ROOMS	settings.py	/^ROOMS = [$/;"	v
+Request	bargaining/__init__.py	/^class Request(Page):$/;"	c
+Results	bargaining/__init__.py	/^class Results(Page):$/;"	c
+Results	bertrand/__init__.py	/^class Results(Page):$/;"	c
+Results	common_value_auction/__init__.py	/^class Results(Page):$/;"	c
+Results	cournot/__init__.py	/^class Results(Page):$/;"	c
+Results	dictator/__init__.py	/^class Results(Page):$/;"	c
+Results	guess_two_thirds/__init__.py	/^class Results(Page):$/;"	c
+Results	prisoner/__init__.py	/^class Results(Page):$/;"	c
+Results	public_goods_simple/__init__.py	/^class Results(Page):$/;"	c
+Results	traveler_dilemma/__init__.py	/^class Results(Page):$/;"	c
+Results	trust/__init__.py	/^class Results(Page):$/;"	c
+Results	trust_simple/__init__.py	/^class Results(Page):$/;"	c
+Results	volunteer_dilemma/__init__.py	/^class Results(Page):$/;"	c
+ResultsSummary	matching_pennies/__init__.py	/^class ResultsSummary(Page):$/;"	c
+ResultsWaitPage	bargaining/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	bertrand/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	common_value_auction/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	cournot/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	dictator/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	guess_two_thirds/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	matching_pennies/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	prisoner/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	public_goods_simple/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	traveler_dilemma/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	trust/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	trust_simple/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+ResultsWaitPage	volunteer_dilemma/__init__.py	/^class ResultsWaitPage(WaitPage):$/;"	c
+SECRET_KEY	settings.py	/^SECRET_KEY = '3920836862962'$/;"	v
+SESSION_CONFIGS	settings.py	/^SESSION_CONFIGS = [$/;"	v
+SESSION_CONFIG_DEFAULTS	settings.py	/^SESSION_CONFIG_DEFAULTS = dict($/;"	v
+SESSION_FIELDS	settings.py	/^SESSION_FIELDS = []$/;"	v
+STAKES	matching_pennies/__init__.py	/^    STAKES = cu(100)$/;"	v	class:C
+Send	trust/__init__.py	/^class Send(Page):$/;"	c
+Send	trust_simple/__init__.py	/^class Send(Page):$/;"	c
+SendBack	trust/__init__.py	/^class SendBack(Page):$/;"	c
+SendBack	trust_simple/__init__.py	/^class SendBack(Page):$/;"	c
+SendBackWaitPage	trust/__init__.py	/^class SendBackWaitPage(WaitPage):$/;"	c
+Subsession	bargaining/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	bertrand/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	common_value_auction/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	cournot/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	dictator/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	guess_two_thirds/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	matching_pennies/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	payment_info/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	prisoner/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	public_goods_simple/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	survey/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	traveler_dilemma/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	trust/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	trust_simple/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+Subsession	volunteer_dilemma/__init__.py	/^class Subsession(BaseSubsession):$/;"	c
+TOTAL_CAPACITY	cournot/__init__.py	/^    TOTAL_CAPACITY = 60$/;"	v	class:C
+USE_POINTS	settings.py	/^USE_POINTS = True$/;"	v
+VOLUNTEER_COST	volunteer_dilemma/__init__.py	/^    VOLUNTEER_COST = cu(40)$/;"	v	class:C
+WaitForP1	trust_simple/__init__.py	/^class WaitForP1(WaitPage):$/;"	c
+adjustment	traveler_dilemma/__init__.py	/^    adjustment = models.CurrencyField()$/;"	v	class:Player
+after_all_players_arrive	bargaining/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	bertrand/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	common_value_auction/__init__.py	/^    after_all_players_arrive = set_winner$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	cournot/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	dictator/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	guess_two_thirds/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	matching_pennies/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	prisoner/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	public_goods_simple/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	traveler_dilemma/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	trust/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	trust_simple/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+after_all_players_arrive	volunteer_dilemma/__init__.py	/^    after_all_players_arrive = set_payoffs$/;"	v	class:ResultsWaitPage
+age	survey/__init__.py	/^    age = models.IntegerField(label='What is your age?', min=13, max=125)$/;"	v	class:Player
+app_sequence	settings.py	/^        app_sequence=['bargaining', 'payment_info'],$/;"	v
+app_sequence	settings.py	/^        app_sequence=['bertrand', 'payment_info'],$/;"	v
+app_sequence	settings.py	/^        app_sequence=['dictator', 'payment_info'],$/;"	v
+app_sequence	settings.py	/^        app_sequence=['guess_two_thirds', 'payment_info'],$/;"	v
+before_next_page	common_value_auction/__init__.py	/^    def before_next_page(player: Player, timeout_happened):$/;"	m	class:Introduction
+best_guess	guess_two_thirds/__init__.py	/^    best_guess = models.IntegerField()$/;"	v	class:Group
+bid_amount	common_value_auction/__init__.py	/^    bid_amount = models.CurrencyField($/;"	v	class:Player
+body_text	cournot/__init__.py	/^    body_text = "Waiting for the other participant to decide."$/;"	v	class:ResultsWaitPage
+choices	matching_pennies/__init__.py	/^        choices=[['Heads', 'Heads'], ['Tails', 'Tails']],$/;"	v	class:Player
+choices	prisoner/__init__.py	/^        choices=[[True, 'Cooperate'], [False, 'Defect']],$/;"	v	class:Player
+choices	survey/__init__.py	/^        choices=[['Male', 'Male'], ['Female', 'Female']],$/;"	v	class:Player
+claim	traveler_dilemma/__init__.py	/^    claim = models.CurrencyField($/;"	v	class:Player
+contribution	public_goods_simple/__init__.py	/^    contribution = models.CurrencyField($/;"	v	class:Player
+cooperate	prisoner/__init__.py	/^    cooperate = models.BooleanField($/;"	v	class:Player
+creating_session	common_value_auction/__init__.py	/^def creating_session(subsession: Subsession):$/;"	f
+creating_session	matching_pennies/__init__.py	/^def creating_session(subsession: Subsession):$/;"	f
+crt_bat	survey/__init__.py	/^    crt_bat = models.IntegerField($/;"	v	class:Player
+crt_lake	survey/__init__.py	/^    crt_lake = models.IntegerField($/;"	v	class:Player
+crt_widget	survey/__init__.py	/^    crt_widget = models.IntegerField($/;"	v	class:Player
+display_name	settings.py	/^        display_name="Bargaining (demo)",$/;"	v
+display_name	settings.py	/^        display_name="Bertrand (demo)",$/;"	v
+display_name	settings.py	/^        display_name="Dictator (demo)",$/;"	v
+display_name	settings.py	/^        display_name="Guess 2\/3 of the Average",$/;"	v
+display_name	settings.py	/^        display_name='Econ 101 class',$/;"	v
+form_fields	bargaining/__init__.py	/^    form_fields = ['request']$/;"	v	class:Request
+form_fields	bertrand/__init__.py	/^    form_fields = ['price']$/;"	v	class:Decide
+form_fields	common_value_auction/__init__.py	/^    form_fields = ['bid_amount']$/;"	v	class:Bid
+form_fields	cournot/__init__.py	/^    form_fields = ['units']$/;"	v	class:Decide
+form_fields	dictator/__init__.py	/^    form_fields = ['kept']$/;"	v	class:Offer
+form_fields	guess_two_thirds/__init__.py	/^    form_fields = ['guess']$/;"	v	class:Guess
+form_fields	matching_pennies/__init__.py	/^    form_fields = ['penny_side']$/;"	v	class:Choice
+form_fields	prisoner/__init__.py	/^    form_fields = ['cooperate']$/;"	v	class:Decision
+form_fields	public_goods_simple/__init__.py	/^    form_fields = ['contribution']$/;"	v	class:Contribute
+form_fields	survey/__init__.py	/^    form_fields = ['age', 'gender']$/;"	v	class:Demographics
+form_fields	survey/__init__.py	/^    form_fields = ['crt_bat', 'crt_widget', 'crt_lake']$/;"	v	class:CognitiveReflectionTest
+form_fields	traveler_dilemma/__init__.py	/^    form_fields = ['claim']$/;"	v	class:Claim
+form_fields	trust/__init__.py	/^    form_fields = ['sent_amount']$/;"	v	class:Send
+form_fields	trust/__init__.py	/^    form_fields = ['sent_back_amount']$/;"	v	class:SendBack
+form_fields	trust_simple/__init__.py	/^    form_fields = ['sent_amount']$/;"	v	class:Send
+form_fields	trust_simple/__init__.py	/^    form_fields = ['sent_back_amount']$/;"	v	class:SendBack
+form_fields	volunteer_dilemma/__init__.py	/^    form_fields = ['volunteer']$/;"	v	class:Decision
+form_model	bargaining/__init__.py	/^    form_model = 'player'$/;"	v	class:Request
+form_model	bertrand/__init__.py	/^    form_model = 'player'$/;"	v	class:Decide
+form_model	common_value_auction/__init__.py	/^    form_model = 'player'$/;"	v	class:Bid
+form_model	cournot/__init__.py	/^    form_model = 'player'$/;"	v	class:Decide
+form_model	dictator/__init__.py	/^    form_model = 'group'$/;"	v	class:Offer
+form_model	guess_two_thirds/__init__.py	/^    form_model = 'player'$/;"	v	class:Guess
+form_model	matching_pennies/__init__.py	/^    form_model = 'player'$/;"	v	class:Choice
+form_model	prisoner/__init__.py	/^    form_model = 'player'$/;"	v	class:Decision
+form_model	public_goods_simple/__init__.py	/^    form_model = 'player'$/;"	v	class:Contribute
+form_model	survey/__init__.py	/^    form_model = 'player'$/;"	v	class:CognitiveReflectionTest
+form_model	survey/__init__.py	/^    form_model = 'player'$/;"	v	class:Demographics
+form_model	traveler_dilemma/__init__.py	/^    form_model = 'player'$/;"	v	class:Claim
+form_model	trust/__init__.py	/^    form_model = 'group'$/;"	v	class:Send
+form_model	trust/__init__.py	/^    form_model = 'group'$/;"	v	class:SendBack
+form_model	trust_simple/__init__.py	/^    form_model = 'group'$/;"	v	class:Send
+form_model	trust_simple/__init__.py	/^    form_model = 'group'$/;"	v	class:SendBack
+form_model	volunteer_dilemma/__init__.py	/^    form_model = 'player'$/;"	v	class:Decision
+gender	survey/__init__.py	/^    gender = models.StringField($/;"	v	class:Player
+generate_value_estimate	common_value_auction/__init__.py	/^def generate_value_estimate(group: Group):$/;"	f
+guess	guess_two_thirds/__init__.py	/^    guess = models.IntegerField($/;"	v	class:Player
+highest_bid	common_value_auction/__init__.py	/^    highest_bid = models.CurrencyField()$/;"	v	class:Group
+individual_share	public_goods_simple/__init__.py	/^    individual_share = models.CurrencyField()$/;"	v	class:Group
+is_displayed	dictator/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:Offer
+is_displayed	guess_two_thirds/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:Introduction
+is_displayed	matching_pennies/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:ResultsSummary
+is_displayed	trust/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:Send
+is_displayed	trust/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:SendBack
+is_displayed	trust_simple/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:Send
+is_displayed	trust_simple/__init__.py	/^    def is_displayed(player: Player):$/;"	m	class:SendBack
+is_winner	bertrand/__init__.py	/^    is_winner = models.BooleanField()$/;"	v	class:Player
+is_winner	common_value_auction/__init__.py	/^    is_winner = models.BooleanField($/;"	v	class:Player
+is_winner	guess_two_thirds/__init__.py	/^    is_winner = models.BooleanField(initial=False)$/;"	v	class:Player
+is_winner	matching_pennies/__init__.py	/^    is_winner = models.BooleanField()$/;"	v	class:Player
+item_value	common_value_auction/__init__.py	/^    item_value = models.CurrencyField($/;"	v	class:Group
+item_value_estimate	common_value_auction/__init__.py	/^    item_value_estimate = models.CurrencyField($/;"	v	class:Player
+kept	dictator/__init__.py	/^    kept = models.CurrencyField($/;"	v	class:Group
+label	bargaining/__init__.py	/^        label="Please enter an amount from 0 to 100",$/;"	v	class:Player
+label	bertrand/__init__.py	/^        label="Please enter an amount from 0 to 100 as your price",$/;"	v	class:Player
+label	common_value_auction/__init__.py	/^        label="Bid amount",$/;"	v	class:Player
+label	cournot/__init__.py	/^        label="How many units will you produce (from 0 to 30)?",$/;"	v	class:Player
+label	dictator/__init__.py	/^        label="I will keep",$/;"	v	class:Group
+label	matching_pennies/__init__.py	/^        label="I choose:",$/;"	v	class:Player
+label	survey/__init__.py	/^        label='What is your gender?',$/;"	v	class:Player
+label	traveler_dilemma/__init__.py	/^        label='How much will you claim for your antique?',$/;"	v	class:Player
+label	trust/__init__.py	/^        label="Please enter an amount from 0 to 100:",$/;"	v	class:Group
+label	trust_simple/__init__.py	/^        label="How much do you want to send to participant B?",$/;"	v	class:Group
+lower_claim	traveler_dilemma/__init__.py	/^    lower_claim = models.CurrencyField()$/;"	v	class:Group
+max	bargaining/__init__.py	/^        max=C.AMOUNT_SHARED,$/;"	v	class:Player
+max	bertrand/__init__.py	/^        max=C.MAXIMUM_PRICE,$/;"	v	class:Player
+max	common_value_auction/__init__.py	/^        max=C.BID_MAX,$/;"	v	class:Player
+max	cournot/__init__.py	/^        max=C.MAX_UNITS_PER_PLAYER,$/;"	v	class:Player
+max	dictator/__init__.py	/^        max=C.ENDOWMENT,$/;"	v	class:Group
+max	traveler_dilemma/__init__.py	/^        max=C.MAX_AMOUNT,$/;"	v	class:Player
+max	trust/__init__.py	/^        max=C.ENDOWMENT,$/;"	v	class:Group
+max	trust_simple/__init__.py	/^        max=C.ENDOWMENT,$/;"	v	class:Group
+min	bargaining/__init__.py	/^        min=0,$/;"	v	class:Player
+min	bertrand/__init__.py	/^        min=0,$/;"	v	class:Player
+min	common_value_auction/__init__.py	/^        min=C.BID_MIN,$/;"	v	class:Player
+min	cournot/__init__.py	/^        min=0,$/;"	v	class:Player
+min	dictator/__init__.py	/^        min=0,$/;"	v	class:Group
+min	traveler_dilemma/__init__.py	/^        min=C.MIN_AMOUNT,$/;"	v	class:Player
+min	trust/__init__.py	/^        min=0,$/;"	v	class:Group
+min	trust_simple/__init__.py	/^        min=cu(0),$/;"	v	class:Group
+name	settings.py	/^        name='bargaining',$/;"	v
+name	settings.py	/^        name='bertrand',$/;"	v
+name	settings.py	/^        name='dictator',$/;"	v
+name	settings.py	/^        name='econ101',$/;"	v
+name	settings.py	/^        name='guess_two_thirds',$/;"	v
+num_demo_participants	settings.py	/^        num_demo_participants=2,$/;"	v
+num_demo_participants	settings.py	/^        num_demo_participants=3,$/;"	v
+num_volunteers	volunteer_dilemma/__init__.py	/^    num_volunteers = models.IntegerField()$/;"	v	class:Group
+num_winners	guess_two_thirds/__init__.py	/^    num_winners = models.IntegerField()$/;"	v	class:Group
+other_player	bargaining/__init__.py	/^def other_player(player: Player):$/;"	f
+other_player	cournot/__init__.py	/^def other_player(player: Player):$/;"	f
+other_player	prisoner/__init__.py	/^def other_player(player: Player):$/;"	f
+other_player	traveler_dilemma/__init__.py	/^def other_player(player: Player):$/;"	f
+page_sequence	bargaining/__init__.py	/^page_sequence = [Introduction, Request, ResultsWaitPage, Results]$/;"	v
+page_sequence	bertrand/__init__.py	/^page_sequence = [Introduction, Decide, ResultsWaitPage, Results]$/;"	v
+page_sequence	common_value_auction/__init__.py	/^page_sequence = [Introduction, Bid, ResultsWaitPage, Results]$/;"	v
+page_sequence	cournot/__init__.py	/^page_sequence = [Introduction, Decide, ResultsWaitPage, Results]$/;"	v
+page_sequence	dictator/__init__.py	/^page_sequence = [Introduction, Offer, ResultsWaitPage, Results]$/;"	v
+page_sequence	guess_two_thirds/__init__.py	/^page_sequence = [Introduction, Guess, ResultsWaitPage, Results]$/;"	v
+page_sequence	matching_pennies/__init__.py	/^page_sequence = [Choice, ResultsWaitPage, ResultsSummary]$/;"	v
+page_sequence	payment_info/__init__.py	/^page_sequence = [PaymentInfo]$/;"	v
+page_sequence	prisoner/__init__.py	/^page_sequence = [Introduction, Decision, ResultsWaitPage, Results]$/;"	v
+page_sequence	public_goods_simple/__init__.py	/^page_sequence = [Contribute, ResultsWaitPage, Results]$/;"	v
+page_sequence	survey/__init__.py	/^page_sequence = [Demographics, CognitiveReflectionTest]$/;"	v
+page_sequence	traveler_dilemma/__init__.py	/^page_sequence = [Introduction, Claim, ResultsWaitPage, Results]$/;"	v
+page_sequence	trust/__init__.py	/^page_sequence = [$/;"	v
+page_sequence	trust_simple/__init__.py	/^page_sequence = [Send, WaitForP1, SendBack, ResultsWaitPage, Results]$/;"	v
+page_sequence	volunteer_dilemma/__init__.py	/^page_sequence = [Introduction, Decision, ResultsWaitPage, Results]$/;"	v
+participant_label_file	settings.py	/^        participant_label_file='_rooms\/econ101.txt',$/;"	v
+penny_side	matching_pennies/__init__.py	/^    penny_side = models.StringField($/;"	v	class:Player
+price	bertrand/__init__.py	/^    price = models.CurrencyField($/;"	v	class:Player
+request	bargaining/__init__.py	/^    request = models.CurrencyField($/;"	v	class:Player
+sent_amount	trust/__init__.py	/^    sent_amount = models.CurrencyField($/;"	v	class:Group
+sent_amount	trust_simple/__init__.py	/^    sent_amount = models.CurrencyField($/;"	v	class:Group
+sent_back_amount	trust_simple/__init__.py	/^    sent_back_amount = models.CurrencyField($/;"	v	class:Group
+sent_back_amount_choices	trust_simple/__init__.py	/^def sent_back_amount_choices(group: Group):$/;"	f
+sent_back_amount_max	trust/__init__.py	/^def sent_back_amount_max(group: Group):$/;"	f
+set_payoff	common_value_auction/__init__.py	/^def set_payoff(player: Player):$/;"	f
+set_payoff	prisoner/__init__.py	/^def set_payoff(player: Player):$/;"	f
+set_payoffs	bargaining/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	bertrand/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	cournot/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	dictator/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	guess_two_thirds/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	matching_pennies/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	prisoner/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	public_goods_simple/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	traveler_dilemma/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	trust/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	trust_simple/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_payoffs	volunteer_dilemma/__init__.py	/^def set_payoffs(group: Group):$/;"	f
+set_winner	common_value_auction/__init__.py	/^def set_winner(group: Group):$/;"	f
+timeout_seconds	prisoner/__init__.py	/^    timeout_seconds = 100$/;"	v	class:Introduction
+total_contribution	public_goods_simple/__init__.py	/^    total_contribution = models.CurrencyField()$/;"	v	class:Group
+total_requests	bargaining/__init__.py	/^    total_requests = models.CurrencyField()$/;"	v	class:Group
+two_thirds_avg	guess_two_thirds/__init__.py	/^    two_thirds_avg = models.FloatField()$/;"	v	class:Group
+two_thirds_avg_history	guess_two_thirds/__init__.py	/^def two_thirds_avg_history(group: Group):$/;"	f
+unit_price	cournot/__init__.py	/^    unit_price = models.CurrencyField()$/;"	v	class:Group
+units	cournot/__init__.py	/^    units = models.IntegerField($/;"	v	class:Player
+vars_for_template	bargaining/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	common_value_auction/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	cournot/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	dictator/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	guess_two_thirds/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Guess
+vars_for_template	guess_two_thirds/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	matching_pennies/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Choice
+vars_for_template	matching_pennies/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:ResultsSummary
+vars_for_template	payment_info/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:PaymentInfo
+vars_for_template	prisoner/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	traveler_dilemma/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	trust/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:Results
+vars_for_template	trust/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:SendBack
+vars_for_template	trust_simple/__init__.py	/^    def vars_for_template(player: Player):$/;"	m	class:SendBack
+volunteer	volunteer_dilemma/__init__.py	/^    volunteer = models.BooleanField($/;"	v	class:Player
+widget	matching_pennies/__init__.py	/^        widget=widgets.RadioSelect,$/;"	v	class:Player
+widget	prisoner/__init__.py	/^        widget=widgets.RadioSelect,$/;"	v	class:Player
+widget	survey/__init__.py	/^        widget=widgets.RadioSelect,$/;"	v	class:Player
+winning_price	bertrand/__init__.py	/^    winning_price = models.CurrencyField()$/;"	v	class:Group

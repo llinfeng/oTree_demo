@@ -3,23 +3,23 @@ from os import environ
 
 SESSION_CONFIGS = [
     dict(
-        name='guess_two_thirds',
+        name='guess_two_thirds (demo)',
         display_name="Guess 2/3 of the Average",
         app_sequence=['guess_two_thirds', 'payment_info'],
         num_demo_participants=3,
     ),
-    dict(
-        name='bargaining',
-        display_name="Bargaining (demo)",
-        app_sequence=['bargaining', 'payment_info'],
-        num_demo_participants=2,
-    ),
-    dict(
-        name='bertrand',
-        display_name="Bertrand (demo)",
-        app_sequence=['bertrand', 'payment_info'],
-        num_demo_participants=2,
-    ),
+    # dict(
+    #     name='bargaining',
+    #     display_name="Bargaining (demo)",
+    #     app_sequence=['bargaining', 'payment_info'],
+    #     num_demo_participants=2,
+    # ),
+    # dict(
+    #     name='bertrand',
+    #     display_name="Bertrand (demo)",
+    #     app_sequence=['bertrand', 'payment_info'],
+    #     num_demo_participants=2,
+    # ),
     dict(
         name='dictator',
         display_name="Dictator (demo)",

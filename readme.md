@@ -5,6 +5,7 @@ otree startproject sample_games
 Then, all files were checked into this repo.
 
 * Demo link: <https://otree-demo-2024-02-4ef562cbb854.herokuapp.com/demo>
+    * Update: `2024-02-13, 14:25` - heroku app turned into Maintenance mode.
 
 ## Hosting on Heroku
 * On Heroku, first create as an app called `otree-demo-2024-02`.
